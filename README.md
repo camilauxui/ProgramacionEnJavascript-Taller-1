@@ -106,17 +106,22 @@ TypeScript es un superconjunto de JavaScript que añade tipado estático opciona
 #### Ventajas
 
 1. **Interactividad y Experiencia del Usuario**:
-   - **JavaScript **: Permite agregar interactividad a la página, como formularios dinámicos, validaciones en tiempo real, y respuestas a eventos del usuario (por ejemplo, clics y desplazamientos). 
+   - **JavaScript**: Permite agregar interactividad a la página, como formularios dinámicos, validaciones en tiempo real, y respuestas a eventos del usuario (por ejemplo, clics y desplazamientos). 
    - **TypeScript**: Permite la creación de aplicaciones más robustas y escalables. Su tipado estático ayuda a detectar errores en tiempo de desarrollo.
 
 2. **Manejo de Asincronía**:
    - Ambos lenguajes permiten manejar operaciones asíncronas de manera eficiente, lo que es especialmente útil para realizar peticiones a APIs (por ejemplo, para obtener información de pacientes o pedir horas médicas) sin bloquear la interfaz de usuario.
 
 3. **Extensibilidad y Mantenimiento**:
-   - **JavaScript **: Permite el uso de frameworks y bibliotecas como React o Angular, que pueden facilitar el desarrollo de aplicaciones de una sola página (SPA) y mejorar la organización del código.
+   - **JavaScript**: Permite el uso de frameworks y bibliotecas como React o Angular, que pueden facilitar el desarrollo de aplicaciones de una sola página (SPA) y mejorar la organización del código.
 
 4. **Integración con APIs**:
    - La capacidad de JavaScript para interactuar con APIs REST es fundamental para permitir la integración con sistemas de gestión de pacientes o bases de datos de horas médicas.
+
+#### Desventajas
+
+1. **Requiere tiempo y manejar el lenguaje**:En mi caso añadir Javascript al proyecto no es fácil, aplicar lo visto en clases y que funcione es un desafío que seguramente me tomará tiempo porque no tengo práctica en este lenguaje. Por lo visto es importante incorporarlo al proyecto y creo que la práctica ayudará a ir asimilando estos conocimientos.
+ 
 
 ### En conclusión:
 Si sería recomendable incluir JavaScript avanzado o TypeScript en el sitio web del centro médico, por la necesidad de interactividad, manejo de datos y la posibilidad de escalar el proyecto en el futuro. La capacidad de JavaScript para mejorar la experiencia del usuario y facilidad en la detección de errores también son beneficios importantes a considerar. 
