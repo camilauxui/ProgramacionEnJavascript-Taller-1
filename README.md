@@ -101,7 +101,7 @@ TypeScript es un superconjunto de JavaScript que añade tipado estático opciona
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 
-3.### Análisis de la Pertinencia de Integrar JavaScript Avanzado o
+### 3.Análisis de la Pertinencia de Integrar JavaScript Avanzado o
 TypeScript en el Proyecto
 
 #### Ventajas de Utilizar JavaScript Avanzado o TypeScript
