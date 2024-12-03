@@ -101,10 +101,9 @@ TypeScript es un superconjunto de JavaScript que añade tipado estático opciona
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 
-### 3.Análisis de la Pertinencia de Integrar JavaScript Avanzado o
-TypeScript en el Proyecto
+### 3.Análisis de la Pertinencia de Integrar JavaScript Avanzado o TypeScript en el Proyecto
 
-#### Ventajas de Utilizar JavaScript Avanzado o TypeScript
+#### Ventajas
 
 1. **Interactividad y Experiencia del Usuario**:
    - **JavaScript **: Permite agregar interactividad a la página, como formularios dinámicos, validaciones en tiempo real, y respuestas a eventos del usuario (por ejemplo, clics y desplazamientos). 
@@ -119,8 +118,7 @@ TypeScript en el Proyecto
 4. **Integración con APIs**:
    - La capacidad de JavaScript para interactuar con APIs REST es fundamental para permitir la integración con sistemas de gestión de pacientes o bases de datos de horas médicas.
 
-3.### En conclusión:
-Si sería recomendable incluir JavaScript avanzado o TypeScript en el sitio web del centro médico, por la necesidad de interactividad, manejo de datos y la posibilidad de escalar el proyecto en el futuro. 
-La capacidad de JavaScript para mejorar la experiencia del usuario y facilidad en la detección de errores también son beneficios importantes a considerar. 
+### En conclusión:
+Si sería recomendable incluir JavaScript avanzado o TypeScript en el sitio web del centro médico, por la necesidad de interactividad, manejo de datos y la posibilidad de escalar el proyecto en el futuro. La capacidad de JavaScript para mejorar la experiencia del usuario y facilidad en la detección de errores también son beneficios importantes a considerar. 
 
 
