@@ -120,10 +120,8 @@ TypeScript es un superconjunto de JavaScript que añade tipado estático opciona
 
 #### Desventajas
 
-1. **Requiere tiempo y manejar el lenguaje**:En mi caso añadir Javascript al proyecto no es fácil, aplicar lo visto en clases y que funcione es un desafío que seguramente me tomará tiempo porque no tengo práctica en este lenguaje. Por lo visto es importante incorporarlo al proyecto y creo que la práctica ayudará a ir asimilando estos conocimientos.
+1. **Requiere tiempo y manejar el lenguaje**:En mi caso añadir Javascript o TypeScript al proyecto no es fácil, aplicar lo visto en clases y que funcione es un desafío que seguramente me tomará tiempo porque no tengo práctica en este lenguaje. Por lo visto es importante incorporarlo y creo que la práctica ayudará a ir asimilando estos conocimientos.
  
 
 ### En conclusión:
-Si sería recomendable incluir JavaScript avanzado o TypeScript en el sitio web del centro médico, por la necesidad de interactividad, manejo de datos y la posibilidad de escalar el proyecto en el futuro. La capacidad de JavaScript para mejorar la experiencia del usuario y facilidad en la detección de errores también son beneficios importantes a considerar. 
-
-
+Para desarrollar el sitio web del centro médico, pensando en que se van a manejar datos personales de pacientes y médicos, en su escalabilidad y mantenibilidad, TypeScript sería la mejor elección ya que proporciona un entorno más seguro para el desarrollo.
